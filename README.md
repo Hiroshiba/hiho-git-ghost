@@ -1,0 +1,1 @@
+# hiho-git-ghost
