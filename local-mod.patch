@@ -1,0 +1,7 @@
+diff --git a/hoge.txt b/hoge.txt
+new file mode 100644
+index 0000000..2262de0
+--- /dev/null
++++ b/hoge.txt
+@@ -0,0 +1 @@
++hoge
